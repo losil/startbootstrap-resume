@@ -36,6 +36,7 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
     },
     "dependencies": {
+        "@coreui/icons": "^2.0.1",
         "bootstrap": "5.0.1"
     },
     "devDependencies": {
